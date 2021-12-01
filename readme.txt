@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git diff
 Git tracks changes of files.
+Git diff2.
