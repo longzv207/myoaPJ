@@ -7,3 +7,4 @@ Git diff2.
 Create a new branch is quick.
 Creating a new branch is quick and simple.
 Switch dev.
+Switch dev2.
