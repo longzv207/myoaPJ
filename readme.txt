@@ -9,3 +9,4 @@ Creating a new branch is quick and simple.
 Switch dev.
 Switch dev2.
 Add new env.
+Test rebase.
